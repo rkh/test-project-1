@@ -1,7 +1,7 @@
 task :test do
   1.upto(101) do
     sleep(0.01)
-    print '..'
+    print '..F'
   end
   puts
   exit 0
